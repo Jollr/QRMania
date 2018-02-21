@@ -1,17 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Microsoft.Owin.Hosting;
 
-namespace ConsoleApp1
+namespace Server
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world");
-            Console.ReadKey();
+            var baseAddress = "http://127.0.0.1:9000/";
+            using (WebApp.Start<Startup>(url: baseAddress))
+            {
+                Console.ReadKey();
+            }
         }
     }
 }
