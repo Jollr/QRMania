@@ -1,0 +1,5 @@
+content: none
+framework: net462
+
+source https://www.nuget.org/api/v2
+nuget Microsoft.AspNet.WebApi.OwinSelfHost
