@@ -1,0 +1,6 @@
+C:\Users\Jolle\Dropbox\Molwêze 2014 (1)\2018\QRMania\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Jolle\Dropbox\Molwêze 2014 (1)\2018\QRMania\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Jolle\Dropbox\Molwêze 2014 (1)\2018\QRMania\ConsoleApp1\ConsoleApp1\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Jolle\Dropbox\Molwêze 2014 (1)\2018\QRMania\ConsoleApp1\ConsoleApp1\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Jolle\Dropbox\Molwêze 2014 (1)\2018\QRMania\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Jolle\Dropbox\Molwêze 2014 (1)\2018\QRMania\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
